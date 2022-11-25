@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhk0
-- 🌱 I’m currently full stack developer python- django.
+- 🌱 I’m currently developer python- django.
 - learning flask, react, web3 solidity app development.
 - 💞️ I’m looking to collaborate on cybersecurity related open source projects 
 
