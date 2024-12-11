@@ -7,7 +7,7 @@
 
 [![Credly Profile](https://img.shields.io/badge/Credly-View%20My%20Badges-blue)](https://www.credly.com/users/shubham-khanna.5e387c4c)
 ## Certifications
-| ![Badge 1](https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png) | ![Badge 2](https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)| ![Badge 3](https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png) |
+| ![Badge 1](https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png) | ![Badge 2](https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)| ![Badge 3](https://images.credly.com/size/340x340/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png) |
 
 <!---
 Shubhk0/Shubhk0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
