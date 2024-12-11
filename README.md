@@ -5,7 +5,7 @@
 
 <!--START_BADGES:badges-->
 
-
+[![Credly Profile](https://img.shields.io/badge/Credly-View%20My%20Badges-blue)](https://www.credly.com/users/shubham-khanna.5e387c4c)
 ## Certifications
 | Badge 1 | Badge 2 | Badge 3 |
 |---------|---------|---------|
