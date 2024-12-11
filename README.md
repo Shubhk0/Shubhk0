@@ -9,7 +9,7 @@
 ## Certifications
 | Badge 1 | Badge 2 | Badge 3 |
 |---------|---------|---------|
-| ![Badge 1]([https://example.com/badge1.png](https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)) | ![Badge 2]([https://example.com/badge2.png](https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)) | ![Badge 3]([https://example.com/badge3.png](https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png)) |
+| ![Badge 1]([https://example.com/badge1.png](https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png) | ![Badge 2]([https://example.com/badge2.png](https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png) | ![Badge 3]([https://example.com/badge3.png](https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png) |
 
 <!--END_BADGES:badges-->
 
