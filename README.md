@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats👨‍💻</h2>
+<h2 id="github_stats" align='left'>GitHub Stats👨‍💻</h2>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhk0&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/shubhk0/github-readme-stats)
   
