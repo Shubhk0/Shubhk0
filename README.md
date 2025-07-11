@@ -46,8 +46,7 @@ You can click the Preview link to take a look at your changes.
 <h2 id="github_stats" align='left'>GitHub Stats👨‍💻</h2>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhk0&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/shubhk0/github-readme-stats)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=shubhk0&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+
  <p align="right"><a href="https://github.com/shubhk0/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhk0&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
