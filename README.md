@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Khanna @Shubhk0
-- 🌱 I’m currently python developer and security tester with hand-on Google cybersecurity certification
+- 🌱 I’m currently developer and security tester with hand-on Google cybersecurity certification
 - Learning go, react, web3 solidity app development.
 
 <!--START_BADGES:badges-->
